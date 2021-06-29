@@ -1,6 +1,6 @@
-# hellomoto README
+# react-highlight README
 
-This is the README for your extension "hellomoto". After writing up a brief description, we recommend including the following sections.
+This is the README for your extension "react-highlight". After writing up a brief description, we recommend including the following sections.
 
 ## Features
 
